@@ -201,7 +201,7 @@ npm run build
 ---
 
 <div align="center">
-Made with ❤️ by [Your Name]
+Made by Alessio Benincasa 
 </div>
 
 ## 🎨 UI Components
