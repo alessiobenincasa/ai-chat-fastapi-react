@@ -236,17 +236,5 @@ Made with ❤️ by [Your Name]
    - Send and receive AI responses
    - View message history
 
-## 🧪 Testing
 
-### Backend Tests
-```bash
-pytest
-```
 
-### Frontend Tests
-```bash
-cd frontend
-npm test
-```
-
-## 📦 Project Structure
